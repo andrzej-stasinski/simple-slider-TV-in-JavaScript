@@ -1,0 +1,20 @@
+.container {
+	width: 100%;
+}
+#myTV {
+	background-image:url('screen.jpg');
+	width: 619px;
+	height: 398px;
+	padding-top: 14px;
+	margin: 0 auto;
+}
+#myScreen {
+	widows: 461px;
+	height: 348px;
+	margin-left: 14px;
+	/* outline: 1px solid red; */
+}
+img {
+	width: 588px;
+	height: 354px;
+}
