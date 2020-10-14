@@ -1,4 +1,4 @@
-## Simple Slider in JavaScript
+## Simple Slider TV in JavaScript
 
 #### What does the project do - cyclic animation of pictures
 
