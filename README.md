@@ -7,6 +7,7 @@
 * solution in JavaScript - very simple and short code
 * picture animation on picture TV 
 * simple code CSS 
+* simple JavaScript - education part
 
 
 

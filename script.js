@@ -2,7 +2,7 @@
 // -----------------------
 
 var myScreen = document.getElementById('myScreen');
-var tab = ['up1.jpg', 'up2.jpg', 'up3.jpg'];
+var tab = ['./images/up1.jpg', './images/up2.jpg', './images/up3.jpg'];
 var nr = 0;
 function loop() {
     myScreen.innerHTML = "<img src='"+tab[nr]+"' />";

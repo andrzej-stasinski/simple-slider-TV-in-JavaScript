@@ -2,7 +2,7 @@
 	width: 100%;
 }
 #myTV {
-	background-image:url('screen.jpg');
+	background-image:url('images/screen.jpg');
 	width: 619px;
 	height: 398px;
 	padding-top: 14px;
@@ -12,7 +12,6 @@
 	widows: 461px;
 	height: 348px;
 	margin-left: 14px;
-	/* outline: 1px solid red; */
 }
 img {
 	width: 588px;
